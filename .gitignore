@@ -1,0 +1,6 @@
+*.tmp
+*.tmp
+*.bak
+*.swp
+*~.nib
+/t/*
